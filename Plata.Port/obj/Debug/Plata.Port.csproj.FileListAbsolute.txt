@@ -1,0 +1,5 @@
+c:\users\john silver\documents\visual studio 2015\Projects\Plata.Port\Plata.Port\bin\Debug\Plata.Port.dll
+c:\users\john silver\documents\visual studio 2015\Projects\Plata.Port\Plata.Port\bin\Debug\Plata.Port.pdb
+c:\users\john silver\documents\visual studio 2015\Projects\Plata.Port\Plata.Port\obj\Debug\Plata.Port.dll
+c:\users\john silver\documents\visual studio 2015\Projects\Plata.Port\Plata.Port\obj\Debug\Plata.Port.pdb
+c:\users\john silver\documents\visual studio 2015\Projects\Plata.Port\Plata.Port\obj\Debug\Plata.Port.csprojResolveAssemblyReference.cache
